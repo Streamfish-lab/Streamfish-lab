@@ -1,5 +1,9 @@
 业余折腾记录
 
+
+Materials science undergrad, into photoelectric materials. Not a professional developer — just building small things in my spare time.
+
+
 我是 Streamfish，材料科学与工程专业本科在读，方向偏光电材料（半导体 / 光电子器件），对新能源也一直在看。
 
 先说清楚一件事：我不是专业开发者。
@@ -36,6 +40,21 @@ Python（入门） · 一点 HTML / CSS · 数据绘图 · Git 和 Linux 基础�
 
 ---
 
-For non-Chinese readers: I'm an undergraduate studying materials science, and I build small side projects out of personal interest — mostly Python and AI tools. Not a professional developer, just tinkering in my spare time. Issues and suggestions are welcome.
+In English
 
-Streamfish · 业余折腾，持续学习中。
+I'm Streamfish, an undergraduate studying materials science, leaning toward photoelectric materials (semiconductors and optoelectronic devices).
+
+I'm not a professional developer. Everything here is built after class — reading docs, copying, breaking things, fixing them. It runs, but it isn't production-grade, so please don't expect polished code.
+
+Currently:
+
+
+learning Python, starting from small scripts
+curious about how AI coding agents actually work (Claude Code, Codex and the like)
+looking for smoother ways to process and plot materials data
+occasional experiments in video and data visualization
+
+
+Most repositories are personal experiments. Some are unmaintained, some may not run on your machine. Suggestions and issues are welcome, but replies come whenever I have the mood — this is a hobby, so no promises on timing.
+
+Streamfish
